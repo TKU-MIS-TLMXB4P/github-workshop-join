@@ -12,7 +12,7 @@
 
 401630925 資管4B 許齊
 
-
+401630297 資管4B 柯名哲
 
 
 1. 說明 git clone, git pull, git checkout 差異。
